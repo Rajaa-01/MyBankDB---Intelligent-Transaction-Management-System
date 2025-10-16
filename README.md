@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏦 MyBankDB - Intelligent Transaction Management System
 
 **MyBankDB** is a robust Java application for managing and analyzing banking transactions. It allows you to manage clients, accounts, and transactions while automatically detecting financial anomalies.
@@ -119,3 +120,7 @@ cd MyBankDB
 ### 📄 License
 
 MIT License © 2025 Rajae Elmrabet
+=======
+# MyBankDB---Intelligent-Transaction-Management-System
+MyBankDB is a robust Java application for managing and analyzing banking transactions. It allows you to manage clients, accounts, and transactions while automatically detecting financial anomalies.
+>>>>>>> 61f5b858276ae5c04669ca89127ea65eacb71f54
