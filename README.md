@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏦 MyBankDB - Intelligent Transaction Management System
 
 **MyBankDB** is a robust Java application for managing and analyzing banking transactions. It allows you to manage clients, accounts, and transactions while automatically detecting financial anomalies.
@@ -60,34 +59,7 @@ MyBankDB centralizes and organizes banking information to:
 
 ---
 
-## 🏗️ Architecture
-Layered architecture following SOLID principles:
 
-Presentation Layer (UI)
-├─ AppMenu.java
-└─ AppMain.java
-↓
-Service Layer
-├─ ClientService.java
-├─ AccountService.java
-├─ TransactionService.java
-└─ ReportService.java
-↓
-Repository Layer
-├─ ClientRepository.java
-├─ AccountRepository.java
-└─ TransactionRepository.java
-↓
-Model Layer (Records & Sealed Classes)
-├─ ClientRecord.java
-├─ BankAccount.java
-├─ CheckingAccount.java
-├─ SavingsAccount.java
-└─ TransactionRecord.java
-↓
-Database Layer
-└─ PostgreSQL via JDBC
----
 
 ## 🛠️ Technologies Used
 
